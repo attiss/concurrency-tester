@@ -1,0 +1,374 @@
+2021-07-02T11:51:30.803Z	INFO	concurrency-tester/main.go:54	starting record creation	{"amountPerGoRoutine": 15, "goRoutines": 2}
+2021-07-02T11:51:31.578Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-453170462.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:32.246Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-436001579.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+2021-07-02T11:51:30.803Z	INFO	concurrency-tester/main.go:54	starting record creation	{"amountPerGoRoutine": 15, "goRoutines": 2}
+2021-07-02T11:51:31.578Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-453170462.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:32.246Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-436001579.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:33.157Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-453170462.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:33.894Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-436001579.testzone.appdomain.cloud"}
+2021-07-02T11:51:34.375Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-807187064.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:35.046Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-453170462.testzone.appdomain.cloud"}
+2021-07-02T11:51:35.588Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-507894686.testzone.appdomain.cloud"}
+2021-07-02T11:51:36.038Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-133065266.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:36.676Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-807187064.testzone.appdomain.cloud"}
+2021-07-02T11:51:37.262Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-723196034.testzone.appdomain.cloud"}
+2021-07-02T11:51:37.808Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-889183052.testzone.appdomain.cloud"}
+2021-07-02T11:51:38.401Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-133065266.testzone.appdomain.cloud"}
+2021-07-02T11:51:38.890Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:39.713Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-507562744.testzone.appdomain.cloud"}
+2021-07-02T11:51:40.226Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:40.873Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:41.850Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:42.529Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:43.421Z	ERROR	concurrencmain.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:33.157Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-453170462.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:33.894Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-436001579.testzone.appdomain.cloud"}
+2021-07-02T11:51:34.375Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-807187064.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:35.046Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-453170462.testzone.appdomain.cloud"}
+2021-07-02T11:51:35.588Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-507894686.testzone.appdomain.cloud"}
+2021-07-02T11:51:36.038Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-133065266.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:36.676Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-807187064.testzone.appdomain.cloud"}
+2021-07-02T11:51:37.262Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-723196034.testzone.appdomain.cloud"}
+2021-07-02T11:51:37.808Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-889183052.testzone.appdomain.cloud"}
+2021-07-02T11:51:38.401Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-133065266.testzone.appdomain.cloud"}
+2021-07-02T11:51:38.890Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:39.713Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-507562744.testzone.appdomain.cloud"}
+2021-07-02T11:51:40.226Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:40.873Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:41.850Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:42.529Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:43.421Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:44.079Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:45.029Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:45.727Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:46.592Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:47.319Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+y-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:44.079Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:45.029Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:45.727Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:46.592Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:47.319Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:48.189Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:49.490Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:48.189Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:49.490Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:50.181Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:50.181Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:51.177Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud"}
+2021-07-02T11:51:51.700Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-614437336.testzone.appdomain.cloud"}
+2021-07-02T11:51:52.204Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-860899120.testzone.appdomain.cloud"}
+2021-07-02T11:51:51.177Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-456027978.testzone.appdomain.cloud"}
+2021-07-02T11:51:51.700Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-614437336.testzone.appdomain.cloud"}
+2021-07-02T11:51:52.204Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-860899120.testzone.appdomain.cloud"}
+2021-07-02T11:51:52.710Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:53.314Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-273269096.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+2021-07-02T11:51:52.710Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:53.314Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-273269096.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:54.444Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:54.444Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:55.169Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-273269096.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:55.169Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-273269096.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:56.087Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud"}
+2021-07-02T11:51:56.580Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:56.087Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-387330571.testzone.appdomain.cloud"}
+2021-07-02T11:51:56.580Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:57.229Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-273269096.testzone.appdomain.cloud"}
+2021-07-02T11:51:57.707Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-522311401.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:58.321Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:59.290Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-522311401.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:00.006Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:00.993Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-522311401.testzone.appdomain.cloud"}
+2021-07-02T11:52:01.492Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-919733529.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:02.119Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud"}
+2021-07-02T11:52:02.613Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:03.307Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-919733529.testzone.appdomain.cloud"}
+2021-07-02T11:52:04.312Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:05.014Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:06.253Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:07.087Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:57.229Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-273269096.testzone.appdomain.cloud"}
+2021-07-02T11:51:57.707Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-522311401.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:58.321Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:51:59.290Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-522311401.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:00.006Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:00.993Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-522311401.testzone.appdomain.cloud"}
+2021-07-02T11:52:01.492Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-919733529.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:02.119Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-379348601.testzone.appdomain.cloud"}
+2021-07-02T11:52:02.613Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:03.307Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-919733529.testzone.appdomain.cloud"}
+2021-07-02T11:52:04.312Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:05.014Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:06.253Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:07.087Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:08.014Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:09.117Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud"}
+2021-07-02T11:52:09.739Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:10.531Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+2021-07-02T11:52:08.014Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:09.117Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-299266978.testzone.appdomain.cloud"}
+2021-07-02T11:52:09.739Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:10.531Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:11.747Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:11.747Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:12.441Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:13.420Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+2021-07-02T11:52:12.441Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:13.420Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:14.124Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:14.124Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:15.048Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:15.048Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:15.740Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+2021-07-02T11:52:15.740Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:16.686Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud"}
+2021-07-02T11:52:17.202Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-174949017.testzone.appdomain.cloud"}
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:16.686Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-880364927.testzone.appdomain.cloud"}
+2021-07-02T11:52:17.202Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-174949017.testzone.appdomain.cloud"}
+2021-07-02T11:52:17.741Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-950779395.testzone.appdomain.cloud"}
+2021-07-02T11:52:18.259Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud"}
+2021-07-02T11:52:18.709Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-855938773.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+2021-07-02T11:52:17.741Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-950779395.testzone.appdomain.cloud"}
+2021-07-02T11:52:18.259Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-366650526.testzone.appdomain.cloud"}
+2021-07-02T11:52:18.709Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-855938773.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:19.348Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-243139072.testzone.appdomain.cloud"}
+2021-07-02T11:52:19.889Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-683242632.testzone.appdomain.cloud"}
+2021-07-02T11:52:20.416Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-857649589.testzone.appdomain.cloud"}
+2021-07-02T11:52:20.966Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-855938773.testzone.appdomain.cloud"}
+2021-07-02T11:52:21.528Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+2021-07-02T11:52:19.348Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-243139072.testzone.appdomain.cloud"}
+2021-07-02T11:52:19.889Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-683242632.testzone.appdomain.cloud"}
+2021-07-02T11:52:20.416Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-857649589.testzone.appdomain.cloud"}
+2021-07-02T11:52:20.966Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-855938773.testzone.appdomain.cloud"}
+2021-07-02T11:52:21.528Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:22.173Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-181941002.testzone.appdomain.cloud"}
+2021-07-02T11:52:22.173Z	INFO	concurrency-tester/main.go:93	successfully created all records	{"goRoutineID": 0, "amountOfRecords": 15, "numberOfRequests": 36}
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:22.173Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 0, "record": "test-181941002.testzone.appdomain.cloud"}
+2021-07-02T11:52:22.173Z	INFO	concurrency-tester/main.go:93	successfully created all records	{"goRoutineID": 0, "amountOfRecords": 15, "numberOfRequests": 36}
+2021-07-02T11:52:23.037Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+2021-07-02T11:52:23.037Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:24.732Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:24.732Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:26.326Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:26.326Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:27.973Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud"}
+2021-07-02T11:52:28.667Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-462777652.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:27.973Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-182362211.testzone.appdomain.cloud"}
+2021-07-02T11:52:28.667Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-462777652.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:30.322Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-462777652.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:30.322Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-462777652.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:32.089Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-462777652.testzone.appdomain.cloud"}
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:32.089Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-462777652.testzone.appdomain.cloud"}
+2021-07-02T11:52:32.589Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-411716702.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:32.589Z	ERROR	concurrency-tester/main.go:88	failed to create record	{"goRoutineID": 1, "record": "test-411716702.testzone.appdomain.cloud", "error": "Modification Confict: [Concurrent Zone Modification Error for testzone.appdomain.cloud. Please try your request again.]"}
+main.createRecords
+	/concurrency-tester/main.go:88
+2021-07-02T11:52:34.287Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-411716702.testzone.appdomain.cloud"}
+2021-07-02T11:52:34.864Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-596535009.testzone.appdomain.cloud"}
+2021-07-02T11:52:34.864Z	INFO	concurrency-tester/main.go:93	successfully created all records	{"goRoutineID": 1, "amountOfRecords": 15, "numberOfRequests": 45}
+2021-07-02T11:52:34.287Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-411716702.testzone.appdomain.cloud"}
+2021-07-02T11:52:34.864Z	INFO	concurrency-tester/main.go:85	record successfully created	{"goRoutineID": 1, "record": "test-596535009.testzone.appdomain.cloud"}
+2021-07-02T11:52:34.864Z	INFO	concurrency-tester/main.go:93	successfully created all records	{"goRoutineID": 1, "amountOfRecords": 15, "numberOfRequests": 45}
+2021-07-02T11:52:34.864Z	INFO	concurrency-tester/main.go:63	finished record creation
+2021-07-02T11:52:34.864Z	INFO	concurrency-tester/main.go:63	finished record creation
